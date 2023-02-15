@@ -1,0 +1,1 @@
+gs -dSAFER -dBATCH -dNOPAUSE -dEPSCrop -r600 -sDEVICE=pngalpha -sOutputFile=foo.png myfile.ep

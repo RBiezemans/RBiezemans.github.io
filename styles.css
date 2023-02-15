@@ -51,8 +51,8 @@ html, body {
 }
 
 .main-header {
-    background-color: rgba(230, 230, 230, .6);
-    background-image: url(Images/bckgr-mathematics.jpeg);
+    background-color: rgba(49, 96, 100);
+    /* background-image: url(Images/bckgr-mathematics.jpeg); */
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
